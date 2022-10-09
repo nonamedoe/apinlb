@@ -1482,9 +1482,9 @@
       <div id=&quot;betternet_content_root&quot; class=&quot;betternet_content_clean&quot;><div class=&quot;betternet_content&quot;></div></div>
     "></div>
 
-<script defer src="connect.js"></script>
-<script defer src="popup.js"></script>
-<script defer src="bundle91589d92f1641ae8163b.js"></script>
+<script defer src="./connect.js"></script>
+<script defer src="./popup.js"></script>
+<script defer src="./bundle91589d92f1641ae8163b.js"></script>
 
 <script data-scrapbook-elem="basic-loader">(function () {
   var k1 = "data-scrapbook-shadowdom", k2 = "data-scrapbook-canvas", k3 = "data-scrapbook-input-indeterminate",
